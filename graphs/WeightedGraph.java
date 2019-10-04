@@ -46,6 +46,7 @@ public class WeightedGraph<T> implements WeightedGraphInterface<T>
   //must implement
 /**
 *Checks if graph is empty
+* return true if empty
 */
 
   public boolean isEmpty()
